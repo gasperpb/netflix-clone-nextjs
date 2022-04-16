@@ -1,3 +1,32 @@
+<h1 align="center">Clone do NETFLIX com NextJs</h1>
+
+## 💻 Projeto
+
+Esse projeto foi com a intenção de estudo e ser usado suas partes como layout para futuros projetos, facilitando assim os próximos.
+<h6>Tecnologias usadas </h6> 
+
+-  [Next.js](https://nextjs.org/)
+-  [Sass](https://sass-lang.com/)
+-  [TypeScript](https://www.typescriptlang.org/)
+-  [React-Icons](https://react-icons.netlify.com/)
+-  [Tailwind CSS](https://tailwindcss.com/)
+
+Também foi adicionado as ferramentas [**ESLint**](https://eslint.org/) e [**Prettier**](https://prettier.io/) para aumentar a produtividade e auxiliar a manter um padrão de código.
+
+## 📥 Instalação e execução
+
+Faça um clone desse repositório e acesse o diretório.
+
+```bash
+# Instalando as dependências
+$ yarn
+$ npm i
+
+# Executanto aplicação
+$ yarn next
+$ npm run dev
+```
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
